@@ -1,0 +1,3 @@
+﻿  License_plate_recognition_project3.cpp
+C:\Users\himan\source\repos\OpenCV\OpenCV\x64\License_plate_recognition_project3.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCV.vcxproj -> C:\Users\himan\source\repos\OpenCV\x64\Debug\OpenCV.exe
