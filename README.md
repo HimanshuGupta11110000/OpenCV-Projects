@@ -2,4 +2,4 @@
 
 1) Virtual Paint
 2) Document Scanner
-3) Russian Liscence Plate detector 
+3) Russian Number Plate detector 
